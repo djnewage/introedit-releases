@@ -1,8 +1,8 @@
 # IntroEdit — releases
 
-Installers and release notes for **IntroEdit**: turn any song into a DJ-ready intro edit.
+Installers and release notes for **[IntroEdit](https://introedit.com)**: turn any song into a DJ-ready intro edit.
 
-**[Download the latest version](https://github.com/djnewage/introedit-releases/releases/latest)** (Windows).
+**[Download the latest version](https://introedit.com/#download)** (Windows) · [Support](https://introedit.com/support) · [Privacy](https://introedit.com/privacy)
 
 IntroEdit updates itself from this repository: when a new version is published here, the app offers it in its header, and installs it only when you say so.
 
